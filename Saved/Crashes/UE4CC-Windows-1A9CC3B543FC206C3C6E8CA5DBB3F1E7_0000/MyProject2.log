@@ -1,0 +1,1194 @@
+﻿Log file open, 05/03/19 23:41:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177604
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Wisenic -epicuserid=1d76d16944004350af9a91ca9640bf96 -epiclocale=en-US
+LogInit: Base Directory: C:/Unreal Engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.04-03.41.49:727][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.04-03.41.49:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.04-03.41.49:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.04-03.41.49:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.04-03.41.49:731][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-03.41.49:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.04-03.41.49:740][  0]LogHAL: Display: Platform has ~ 16 GB [17126219776 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.04-03.41.49:740][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.04-03.41.49:740][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.04-03.41.49:740][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.04-03.41.49:741][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.04-03.41.49:742][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.04-03.41.49:742][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.04-03.41.49:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.05.04-03.41.49:742][  0]LogInit: Computer: DESKTOP-890VT59
+[2019.05.04-03.41.49:742][  0]LogInit: User: Nicholas
+[2019.05.04-03.41.49:742][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.04-03.41.49:742][  0]LogInit: High frequency timer resolution =3.421880 MHz
+[2019.05.04-03.41.49:742][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.05.04-03.41.49:742][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.04-03.41.49:742][  0]LogMemory: Process Physical Memory: 96.43 MB used, 96.43 MB peak
+[2019.05.04-03.41.49:742][  0]LogMemory: Process Virtual Memory: 91.91 MB used, 91.91 MB peak
+[2019.05.04-03.41.49:742][  0]LogMemory: Physical Memory: 6116.98 MB used,  10215.86 MB free, 16332.84 MB total
+[2019.05.04-03.41.49:742][  0]LogMemory: Virtual Memory: 4650.00 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.04-03.41.49:761][  0]LogInit: Using OS detected language (en-US).
+[2019.05.04-03.41.49:761][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.04-03.41.49:762][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.04-03.41.49:916][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.04-03.41.49:948][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.04-03.41.49:948][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.04-03.41.50:092][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.04-03.41.50:092][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.04-03.41.50:132][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.04-03.41.50:132][  0]LogD3D11RHI:       8096/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.04-03.41.50:134][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.04-03.41.50:134][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.04-03.41.50:134][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.04-03.41.50:141][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.04-03.41.50:141][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.04-03.41.50:141][  0]LogWindows: EnumDisplayDevices:
+[2019.05.04-03.41.50:141][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.05.04-03.41.50:141][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.04-03.41.50:141][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.04-03.41.50:141][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.04-03.41.50:141][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.04-03.41.50:141][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.04-03.41.50:141][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2019.05.04-03.41.50:141][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2019.05.04-03.41.50:141][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2019.05.04-03.41.50:165][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.04-03.41.50:167][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.04-03.41.50:168][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.04-03.41.50:168][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.04-03.41.50:176][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.04-03.41.50:229][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.04-03.41.50:884][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.04-03.41.50:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.04-03.41.51:145][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.04-03.41.51:157][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.04-03.41.51:174][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.04-03.41.51:186][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.04-03.41.51:199][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.04-03.41.51:211][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.04-03.41.51:222][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.04-03.41.51:234][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.04-03.41.51:240][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.04-03.41.51:309][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.04-03.41.51:311][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.04-03.41.51:357][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.04-03.41.51:357][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.04-03.41.51:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.04-03.41.51:377][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.04-03.41.51:387][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.04-03.41.51:398][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.04-03.41.51:408][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.04-03.41.51:419][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.04-03.41.51:458][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.04-03.41.51:458][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.04-03.41.51:458][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.04-03.41.51:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.04-03.41.51:516][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/14324/).
+[2019.05.04-03.41.51:516][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicholas/AppData/Local/Temp/UnrealShaderWorkingDir/093494FA4E30134CEC31DFADF046CC7E/'.
+[2019.05.04-03.41.51:518][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.04-03.41.51:518][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.04-03.41.51:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.04-03.41.51:991][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.04-03.41.52:036][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nicholas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.04-03.41.52:036][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicholas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.04-03.41.52:037][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.04-03.41.52:037][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.04-03.41.52:037][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.04-03.41.52:037][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.04-03.41.52:048][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.04-03.41.52:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.04-03.41.52:048][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.04-03.41.52:060][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicholas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.04-03.41.52:060][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.04-03.41.52:060][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.04-03.41.52:079][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.04-03.41.52:080][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.04-03.41.52:080][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.04-03.41.52:153][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2019.05.04-03.41.52:434][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.04-03.41.52:552][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.04-03.41.52:552][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.04-03.41.52:552][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.04-03.41.52:552][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.04-03.41.52:552][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.04-03.41.52:560][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4139302413)
+[2019.05.04-03.41.52:897][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.033818 seconds
+[2019.05.04-03.41.52:903][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.04-03.41.52:903][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.04-03.41.52:903][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.04-03.41.53:612][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.04-03.41.53:635][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.04-03.41.53:734][  0]SourceControl: Source control is disabled
+[2019.05.04-03.41.53:734][  0]SourceControl: Source control is disabled
+[2019.05.04-03.41.53:735][  0]SourceControl: Source control is disabled
+[2019.05.04-03.41.53:736][  0]SourceControl: Source control is disabled
+[2019.05.04-03.41.53:799][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.04-03.41.53:895][  0]LogOcInput: OculusInput pre-init called
+[2019.05.04-03.41.54:469][  0]LogEngine: Initializing Engine...
+[2019.05.04-03.41.54:469][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.04-03.41.54:470][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.04-03.41.54:648][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.04-03.41.54:662][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.04-03.41.54:689][  0]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.41.54:702][  0]LogInit: FAudioDevice initialized.
+[2019.05.04-03.41.54:702][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.04-03.41.54:817][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Nicholas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.04-03.41.54:827][  0]LogInit: Texture streaming: Enabled
+[2019.05.04-03.41.54:844][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.04-03.41.54:865][  0]LogInit: Transaction tracking system initialized
+[2019.05.04-03.41.54:888][  0]BlueprintLog: New page: Editor Load
+[2019.05.04-03.41.55:010][  0]LocalizationService: Localization service is disabled
+[2019.05.04-03.41.55:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/' took 0.01s
+[2019.05.04-03.41.55:290][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.04-03.41.55:290][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.04-03.41.55:459][  0]SourceControl: Source control is disabled
+[2019.05.04-03.41.55:461][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Unreal Engine/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.05.04-03.41.55:464][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.05.04-03.41.55:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.05.04-03.41.55:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.05.04-03.41.55:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.05.04-03.41.55:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.05.04-03.41.55:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.05.04-03.41.55:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.05.04-03.41.55:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.05.04-03.41.55:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.05.04-03.41.55:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.05.04-03.41.55:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.05.04-03.41.55:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.05.04-03.41.55:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.05.04-03.41.55:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.05.04-03.41.55:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.05.04-03.41.55:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.05.04-03.41.55:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.05.04-03.41.55:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.05.04-03.41.55:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01.uasset"
+[2019.05.04-03.41.55:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.05.04-03.41.55:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.05.04-03.41.55:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.05.04-03.41.55:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01.uasset"
+[2019.05.04-03.41.55:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.05.04-03.41.55:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02.uasset"
+[2019.05.04-03.41.55:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.05.04-03.41.55:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.05.04-03.41.55:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.05.04-03.41.55:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.05.04-03.41.55:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.05.04-03.41.55:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.05.04-03.41.55:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.05.04-03.41.55:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.05.04-03.41.55:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.05.04-03.41.55:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01.uasset"
+[2019.05.04-03.41.55:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.05.04-03.41.55:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.05.04-03.41.55:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.05.04-03.41.55:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.05.04-03.41.55:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.05.04-03.41.55:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.05.04-03.41.55:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.05.04-03.41.55:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.05.04-03.41.55:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.05.04-03.41.55:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.05.04-03.41.55:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.05.04-03.41.55:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.05.04-03.41.55:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.05.04-03.41.55:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.05.04-03.41.55:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.05.04-03.41.55:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.05.04-03.41.55:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.05.04-03.41.55:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.05.04-03.41.55:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.05.04-03.41.55:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.05.04-03.41.55:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.05.04-03.41.55:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.05.04-03.41.55:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap.umap"
+[2019.05.04-03.41.55:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.05.04-03.41.55:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.05.04-03.41.55:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.05.04-03.41.55:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.05.04-03.41.55:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.05.04-03.41.55:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.05.04-03.41.55:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.05.04-03.41.55:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.05.04-03.41.55:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.05.04-03.41.55:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.05.04-03.41.55:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.05.04-03.41.55:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.05.04-03.41.55:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.05.04-03.41.55:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.05.04-03.41.55:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.05.04-03.41.55:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.05.04-03.41.55:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.05.04-03.41.55:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.05.04-03.41.55:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.05.04-03.41.55:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.05.04-03.41.55:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.05.04-03.41.55:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.05.04-03.41.55:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.05.04-03.41.55:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.05.04-03.41.55:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.05.04-03.41.55:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.05.04-03.41.55:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.05.04-03.41.55:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.05.04-03.41.55:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.05.04-03.41.55:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.05.04-03.41.55:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.05.04-03.41.55:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.05.04-03.41.55:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.05.04-03.41.55:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.05.04-03.41.55:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.05.04-03.41.55:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.05.04-03.41.55:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.05.04-03.41.55:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.05.04-03.41.55:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.05.04-03.41.55:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.05.04-03.41.55:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.05.04-03.41.55:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.05.04-03.41.55:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.05.04-03.41.55:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.05.04-03.41.55:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.05.04-03.41.55:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.05.04-03.41.55:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.05.04-03.41.55:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.05.04-03.41.55:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.05.04-03.41.55:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.05.04-03.41.55:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.05.04-03.41.55:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.05.04-03.41.55:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.05.04-03.41.55:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.05.04-03.41.55:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.05.04-03.41.55:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.05.04-03.41.55:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.05.04-03.41.55:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.05.04-03.41.55:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.05.04-03.41.55:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.05.04-03.41.55:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.05.04-03.41.55:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.05.04-03.41.55:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.05.04-03.41.55:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.05.04-03.41.55:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.05.04-03.41.55:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Door.uasset"
+[2019.05.04-03.41.55:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.05.04-03.41.55:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.05.04-03.41.55:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.05.04-03.41.55:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.05.04-03.41.55:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.05.04-03.41.55:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.05.04-03.41.55:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.05.04-03.41.55:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.05.04-03.41.55:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.05.04-03.41.55:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.05.04-03.41.55:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.05.04-03.41.55:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.05.04-03.41.55:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.05.04-03.41.56:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.05.04-03.41.56:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.05.04-03.41.56:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.05.04-03.41.56:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.05.04-03.41.56:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.05.04-03.41.56:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.05.04-03.41.56:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.05.04-03.41.56:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.05.04-03.41.56:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.05.04-03.41.56:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.05.04-03.41.56:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.05.04-03.41.56:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.05.04-03.41.56:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.05.04-03.41.56:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.05.04-03.41.56:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.05.04-03.41.56:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.05.04-03.41.56:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.05.04-03.41.56:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.05.04-03.41.56:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.05.04-03.41.56:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.05.04-03.41.56:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.05.04-03.41.56:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.05.04-03.41.56:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.05.04-03.41.56:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.05.04-03.41.56:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.05.04-03.41.56:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.05.04-03.41.56:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.05.04-03.41.56:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.05.04-03.41.56:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.05.04-03.41.56:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.05.04-03.41.56:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.05.04-03.41.56:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.05.04-03.41.56:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.05.04-03.41.56:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.05.04-03.41.56:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.05.04-03.41.56:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.05.04-03.41.56:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.05.04-03.41.56:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.05.04-03.41.56:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.05.04-03.41.56:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.05.04-03.41.56:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.05.04-03.41.56:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.05.04-03.41.56:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.05.04-03.41.56:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.05.04-03.41.56:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.05.04-03.41.56:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.05.04-03.41.56:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.05.04-03.41.56:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.05.04-03.41.56:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.05.04-03.41.56:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.05.04-03.41.56:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.05.04-03.41.56:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.05.04-03.41.56:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.05.04-03.41.56:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.05.04-03.41.56:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.05.04-03.41.56:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.05.04-03.41.56:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.05.04-03.41.56:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.05.04-03.41.56:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.05.04-03.41.56:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.05.04-03.41.56:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.05.04-03.41.56:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.05.04-03.41.56:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.05.04-03.41.56:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.05.04-03.41.56:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.05.04-03.41.56:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.05.04-03.41.56:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.05.04-03.41.56:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.05.04-03.41.56:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.05.04-03.41.56:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.05.04-03.41.56:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.05.04-03.41.56:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.05.04-03.41.56:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.05.04-03.41.56:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.05.04-03.41.56:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.05.04-03.41.56:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.05.04-03.41.56:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.05.04-03.41.56:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.05.04-03.41.56:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.05.04-03.41.56:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.05.04-03.41.56:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.05.04-03.41.56:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.05.04-03.41.56:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.05.04-03.41.56:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.05.04-03.41.56:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.05.04-03.41.56:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.05.04-03.41.56:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.05.04-03.41.56:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.05.04-03.41.56:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.05.04-03.41.56:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.05.04-03.41.56:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.05.04-03.41.56:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.05.04-03.41.56:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.05.04-03.41.56:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.05.04-03.41.56:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.05.04-03.41.56:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.05.04-03.41.56:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.05.04-03.41.56:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.05.04-03.41.56:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.05.04-03.41.56:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.05.04-03.41.56:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.05.04-03.41.56:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.05.04-03.41.56:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.05.04-03.41.56:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.05.04-03.41.56:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.05.04-03.41.56:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.05.04-03.41.56:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.05.04-03.41.56:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.05.04-03.41.56:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.05.04-03.41.56:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.05.04-03.41.56:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.05.04-03.41.56:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.05.04-03.41.56:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.05.04-03.41.56:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.05.04-03.41.56:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.05.04-03.41.56:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.05.04-03.41.56:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.05.04-03.41.56:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.05.04-03.41.56:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.05.04-03.41.56:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.05.04-03.41.56:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.05.04-03.41.56:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.05.04-03.41.56:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.05.04-03.41.56:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.05.04-03.41.56:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.05.04-03.41.56:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.05.04-03.41.56:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.05.04-03.41.56:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.05.04-03.41.56:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.05.04-03.41.56:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.05.04-03.41.56:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.05.04-03.41.56:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.05.04-03.41.56:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.05.04-03.41.56:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.05.04-03.41.56:798][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.05.04-03.41.56:847][  0]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Floor_400x400E223DFA047D963C7E9876CA5335A84F1.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.05.04-03.41.56:851][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.05.04-03.41.56:852][  0]Cmd: MAP LOAD FILE="../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.04-03.41.56:853][  0]LightingResults: New page: Lighting Build
+[2019.05.04-03.41.56:855][  0]MapCheck: New page: Map Check
+[2019.05.04-03.41.56:855][  0]LightingResults: New page: Lighting Build
+[2019.05.04-03.41.56:882][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.05.04-03.41.58:012][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.41.58:047][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.04-03.41.58:485][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.05.04-03.41.58:486][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.04-03.41.58:486][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2019.05.04-03.41.58:486][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.633
+[2019.05.04-03.41.59:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.41.59:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.41.59:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.41.59:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.41.59:044][  0]LogCollectionManager: Loaded 0 collections in 0.001665 seconds
+[2019.05.04-03.41.59:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Collections/' took 0.01s
+[2019.05.04-03.41.59:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/Developers/Nicholas/Collections/' took 0.01s
+[2019.05.04-03.41.59:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/Collections/' took 0.01s
+[2019.05.04-03.41.59:084][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.04-03.41.59:091][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2732 classes and 659 folders.
+[2019.05.04-03.41.59:098][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.04-03.41.59:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.04-03.41.59:137][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.04-03.41.59:143][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.04-03.41.59:201][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.04-03.41.59:203][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.04-03.41.59:207][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.04-03.41.59:240][  0]LogRenderer: Reallocating scene render targets to support 1288x600 Format 10 NumSamples 1 (Frame:1).
+[2019.05.04-03.41.59:467][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.04-03.41.59:467][  0]LogLoad: (Engine Initialization) Total time: 11.18 seconds
+[2019.05.04-03.41.59:467][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.04-03.41.59:503][  0]LogAssetRegistry: Asset discovery search completed in 7.3723 seconds
+[2019.05.04-03.41.59:505][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.04-03.41.59:505][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.05.04-03.41.59:594][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.04-03.42.01:559][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.42.01:608][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-03.42.01:612][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.42.01:612][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-03.42.01:612][235]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 7:42:01 PM)
+[2019.05.04-03.42.01:625][235]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-03.42.01:638][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012739s)
+[2019.05.04-03.42.01:638][235]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.42.01:638][235]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2019.05.04-03.42.01:638][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013580s)
+[2019.05.04-03.42.01:658][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.05.04-03.42.01:683][235]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.42.01:692][235]LogInit: FAudioDevice initialized.
+[2019.05.04-03.42.01:732][235]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-03.42.01:734][235]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.03-23.42.01
+[2019.05.04-03.42.01:735][235]LogWorld: Bringing up level for play took: 0.001477
+[2019.05.04-03.42.01:752][235]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.04-03.42.01:753][235]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.565
+[2019.05.04-03.42.01:753][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.42.18:939][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.42.18:939][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.42.18:970][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-03.42.18:970][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.42.18:994][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.42.18:997][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.05.04-03.42.19:039][298]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.04-03.42.19:893][400]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2019.05.04-03.42.19:933][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.42.27:827][314]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.42.29:642][520]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.04-03.42.40:462][801]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.42.41:946][977]Cmd: SELECT NONE
+[2019.05.04-03.42.45:347][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.04-03.42.46:222][465]Cmd: SELECT NONE
+[2019.05.04-03.42.46:625][513]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.42.57:050][751]Cmd: SELECT NONE
+[2019.05.04-03.43.22:594][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.43.41:602][ 58]Cmd: SELECT NONE
+[2019.05.04-03.43.43:711][308]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.43.54:425][586]Cmd: SELECT NONE
+[2019.05.04-03.43.57:580][964]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.44.02:227][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.44.02:302][518]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-03.44.02:309][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.44.02:309][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-03.44.02:309][518]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 7:44:02 PM)
+[2019.05.04-03.44.02:309][518]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-03.44.02:319][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010142s)
+[2019.05.04-03.44.02:319][518]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.44.02:320][518]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.05.04-03.44.02:320][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010925s)
+[2019.05.04-03.44.02:340][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.05.04-03.44.02:365][518]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.44.02:374][518]LogInit: FAudioDevice initialized.
+[2019.05.04-03.44.02:406][518]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-03.44.02:408][518]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.03-23.44.02
+[2019.05.04-03.44.02:409][518]LogWorld: Bringing up level for play took: 0.002065
+[2019.05.04-03.44.02:421][518]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.766
+[2019.05.04-03.44.02:422][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.44.07:179][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.44.07:179][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.44.07:210][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-03.44.07:210][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.44.07:235][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.44.07:237][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.05.04-03.44.07:281][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.04-03.44.07:951][167]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.44.09:770][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.45.14:234][ 72]Cmd: SELECT NONE
+[2019.05.04-03.45.16:979][387]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.45.27:808][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.45.31:312][ 91]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.04-03.45.31:346][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.46.16:488][487]Cmd: SELECT NONE
+[2019.05.04-03.46.19:585][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.46.19:652][866]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-03.46.19:659][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.19:659][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-03.46.19:659][866]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 7:46:19 PM)
+[2019.05.04-03.46.19:659][866]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-03.46.19:669][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009734s)
+[2019.05.04-03.46.19:669][866]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.46.19:670][866]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.05.04-03.46.19:670][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010440s)
+[2019.05.04-03.46.19:691][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.05.04-03.46.19:715][866]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.46.19:724][866]LogInit: FAudioDevice initialized.
+[2019.05.04-03.46.19:756][866]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-03.46.19:757][866]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.03-23.46.19
+[2019.05.04-03.46.19:758][866]LogWorld: Bringing up level for play took: 0.001485
+[2019.05.04-03.46.19:770][866]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.583
+[2019.05.04-03.46.19:771][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.23:900][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.23:900][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.46.23:930][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-03.46.23:930][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.23:954][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.46.23:956][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.04-03.46.24:002][363]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.04-03.46.24:550][428]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.46.28:555][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.46.49:226][328]Cmd: SELECT NONE
+[2019.05.04-03.46.50:204][445]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-03.46.50:212][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.50:212][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-03.46.50:212][445]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 7:46:50 PM)
+[2019.05.04-03.46.50:212][445]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-03.46.50:222][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009989s)
+[2019.05.04-03.46.50:223][445]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.46.50:223][445]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2019.05.04-03.46.50:223][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010935s)
+[2019.05.04-03.46.50:243][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.05.04-03.46.50:268][445]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.46.50:276][445]LogInit: FAudioDevice initialized.
+[2019.05.04-03.46.50:306][445]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-03.46.50:308][445]PIE: Warning: Invalid Simulate Options: Body (Pawn_1.SkeletalMesh SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2019.05.04-03.46.50:308][445]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.03-23.46.50
+[2019.05.04-03.46.50:308][445]LogWorld: Bringing up level for play took: 0.001731
+[2019.05.04-03.46.50:320][445]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.867
+[2019.05.04-03.46.50:321][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.54:169][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.54:169][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.46.54:197][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-03.46.54:197][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.46.54:222][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.46.54:225][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.05.04-03.46.54:230][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.46.54:276][907]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.04-03.46.55:940][106]LogSlate: Window 'Message Log' being destroyed
+[2019.05.04-03.46.55:943][106]LogSlate: Window 'Message Log' being destroyed
+[2019.05.04-03.46.57:191][256]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.46.59:639][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.47.00:703][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-03.47.00:710][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.47.00:710][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-03.47.00:710][653]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 7:47:00 PM)
+[2019.05.04-03.47.00:710][653]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-03.47.00:720][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010262s)
+[2019.05.04-03.47.00:721][653]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-03.47.00:721][653]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.05.04-03.47.00:721][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010919s)
+[2019.05.04-03.47.00:741][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.05.04-03.47.00:766][653]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-03.47.00:776][653]LogInit: FAudioDevice initialized.
+[2019.05.04-03.47.00:803][653]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-03.47.00:805][653]PIE: Warning: Invalid Simulate Options: Body (Pawn_1.SkeletalMesh SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2019.05.04-03.47.00:805][653]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.03-23.47.00
+[2019.05.04-03.47.00:805][653]LogWorld: Bringing up level for play took: 0.001522
+[2019.05.04-03.47.00:817][653]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.37
+[2019.05.04-03.47.00:818][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.47.03:677][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.47.03:677][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.47.03:703][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-03.47.03:703][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-03.47.03:728][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-03.47.03:730][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.05.04-03.47.03:735][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.47.03:786][992]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.04-03.47.08:909][605]LogSlate: Window 'Message Log' being destroyed
+[2019.05.04-03.47.08:911][605]LogSlate: Window 'Message Log' being destroyed
+[2019.05.04-03.47.09:959][731]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2019.05.04-03.47.09:997][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.47.12:780][ 46]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.47.15:804][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.47.18:898][745]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh)
+[2019.05.04-03.47.19:505][816]Cmd: DELETE
+[2019.05.04-03.47.19:505][816]Cmd: ACTOR DELETE
+[2019.05.04-03.47.19:505][816]LogEditorActor: Deleted 1 Components (0.000 secs)
+[2019.05.04-03.47.20:326][914]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2019.05.04-03.47.22:021][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.47.26:161][610]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-03.47.28:546][878]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.47.29:860][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-03.47.48:877][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.05.04-03.47.49:778][408]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-03.47.54:869][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-03.52.42:287][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.04-03.52.42:408][705]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMap_Auto1E4F0FDCB48101AEED6C0368AB7F0CF57.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2019.05.04-03.52.42:412][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.146
+[2019.05.04-03.52.42:412][705]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.146
+[2019.05.04-04.14.31:597][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.04-04.14.32:402][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.05.04-04.14.33:420][  5]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-04.14.36:950][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.14.42:433][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.15.08:617][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.15.08:675][365]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-04.15.08:683][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.08:683][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-04.15.08:683][365]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 8:15:08 PM)
+[2019.05.04-04.15.08:683][365]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-04.15.08:695][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012080s)
+[2019.05.04-04.15.08:696][365]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-04.15.08:696][365]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2019.05.04-04.15.08:696][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013317s)
+[2019.05.04-04.15.08:718][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.05.04-04.15.08:746][365]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-04.15.08:757][365]LogInit: FAudioDevice initialized.
+[2019.05.04-04.15.08:784][365]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-04.15.08:786][365]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.04-00.15.08
+[2019.05.04-04.15.08:786][365]LogWorld: Bringing up level for play took: 0.001926
+[2019.05.04-04.15.08:799][365]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.389
+[2019.05.04-04.15.08:799][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.11:994][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.11:994][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.12:025][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-04.15.12:025][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.12:053][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.12:057][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.04-04.15.12:103][747]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.04-04.15.13:384][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.15.13:467][910]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-04.15.13:476][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.13:476][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-04.15.13:476][910]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 8:15:13 PM)
+[2019.05.04-04.15.13:476][910]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-04.15.13:487][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010508s)
+[2019.05.04-04.15.13:487][910]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-04.15.13:487][910]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2019.05.04-04.15.13:487][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011173s)
+[2019.05.04-04.15.13:506][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.04-04.15.13:534][910]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-04.15.13:544][910]LogInit: FAudioDevice initialized.
+[2019.05.04-04.15.13:573][910]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-04.15.13:575][910]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.04-00.15.13
+[2019.05.04-04.15.13:575][910]LogWorld: Bringing up level for play took: 0.001798
+[2019.05.04-04.15.13:587][910]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.4
+[2019.05.04-04.15.13:588][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.16:580][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.16:581][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.16:612][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-04.15.16:612][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.16:638][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.16:641][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.05.04-04.15.16:692][267]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.04-04.15.17:353][346]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-04.15.30:584][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.15.33:722][136]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.04-04.15.33:731][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.33:731][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.04-04.15.33:731][136]PIE: New page: PIE session: SideScrollerExampleMap (May 3, 2019, 8:15:33 PM)
+[2019.05.04-04.15.33:731][136]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.04-04.15.33:742][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011405s)
+[2019.05.04-04.15.33:743][136]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.04-04.15.33:743][136]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.05.04-04.15.33:743][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012185s)
+[2019.05.04-04.15.33:764][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.04-04.15.33:792][136]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.04-04.15.33:802][136]LogInit: FAudioDevice initialized.
+[2019.05.04-04.15.33:830][136]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.04-04.15.33:832][136]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.04-00.15.33
+[2019.05.04-04.15.33:833][136]LogWorld: Bringing up level for play took: 0.001504
+[2019.05.04-04.15.33:845][136]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.657
+[2019.05.04-04.15.33:845][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.39:380][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.39:380][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.39:409][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.04-04.15.39:409][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.04-04.15.39:435][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.04-04.15.39:438][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.05.04-04.15.39:482][795]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.04-04.15.40:155][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.15.47:039][694]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.04-04.15.48:777][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.04-04.15.50:191][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.04-04.15.50:838][133]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.04-04.15.51:999][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.15.55:623][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.05.04-04.15.56:045][704]Cmd: SELECT NONE
+[2019.05.04-04.15.57:435][857]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-04.16.03:153][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.16.09:348][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.16.13:790][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.16.22:763][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.16.25:311][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.16.33:796][ 33]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-04.16.34:987][171]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2019.05.04-04.16.37:351][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.17.16:732][ 14]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh1)
+[2019.05.04-04.17.29:255][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.17.54:337][439]LogSlate: Window 'Select Path' being destroyed
+[2019.05.04-04.18.05:315][426]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.04-04.18.10:304][ 13]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Enemy.Enemy
+[2019.05.04-04.18.10:533][ 13]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.05.04-04.18.19:907][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.18.26:133][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.18.27:008][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.18.30:109][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-04.18.51:463][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.19.15:674][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-04.19.20:017][400]LogEditorTransaction: Undo Set Scale
+[2019.05.04-04.19.20:021][400]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.04-04.19.20:719][400]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.698 s
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: 
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: 
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: Stack: 
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff9661902c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff9656bb310 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff965674b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff95ef2efff UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff95ef2fbd5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff95eee6ec1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.05.04-04.19.20:719][400]LogOutputDevice: Error: [Callstack] 0x00007ff9818e149b UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9818b75d9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff98199cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9817a5efe UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff981756444 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964d61b34 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964b1d54d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964af8089 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964e44ac3 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964e2b7a8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964de1a54 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964e3180a UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964ada778 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964b07456 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964b2326d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff965674fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff965696366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff965682f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9656dab43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff96571abd8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9656b925f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff964af8e88 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9817571ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff98178743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff965e56b3e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff965e462e1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff981721e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff981788dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff98177f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff99b30b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff99b2fef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff99b30d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff99b2fc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9b0896d41 USER32.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9b0896713 USER32.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff99b30e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff6614a5d3e UE4Editor.exe!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff6614b554c UE4Editor.exe!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff6614b55ca UE4Editor.exe!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff6614c316c UE4Editor.exe!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff6614c5b8e UE4Editor.exe!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9b03f4034 KERNEL32.DLL!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: [Callstack] 0x00007ff9b2cc3691 ntdll.dll!UnknownFunction []
+[2019.05.04-04.19.20:720][400]LogOutputDevice: Error: 
+[2019.05.04-04.19.20:730][400]LogStats:                SubmitErrorReport -  0.000 s
